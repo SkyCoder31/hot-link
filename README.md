@@ -30,6 +30,8 @@ bash
 Copy code
 git clone https://github.com/<your-username>/full-stack-dating-app.git
 Install the necessary dependencies
+  
+  
 Copy code
 npm install
 Start the application
