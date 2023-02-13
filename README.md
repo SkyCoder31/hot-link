@@ -1,7 +1,11 @@
 Full Stack Dating Web Application
+
+
 A dating web application where users can sign up/login with their email and password, upload their own image, and scroll through other users' images.
 
+
 Features
+
 UI
 Sign up/login with email and password
 Upload one image for each user
